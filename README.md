@@ -85,6 +85,3 @@ pip install -r requirements.txt
 
 ---
 
-
-  <b>Made with Python & Telegram API • By AnubhavChaturvedi-GitHub</b>
-</p>
